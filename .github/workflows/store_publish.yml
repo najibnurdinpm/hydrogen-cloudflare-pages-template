@@ -16,7 +16,7 @@ jobs:
           version: 6.32.2
 
       - name: Install dependencies
-        run: pnpm dev
+        run: pnpm install
 
       - name: Build packages
         run: pnpm run build --filter=store
