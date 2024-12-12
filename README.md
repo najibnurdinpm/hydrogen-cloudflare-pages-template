@@ -5,6 +5,7 @@ This repository contains a demo Shopify Hydrogen store ready to be deployed on C
  - Full typescript
  - Uses PNPM and Turbo for repository and dependencies setup
  - Github Actions to deploy to Cloudflare Pages
+ 
 
 ## Getting Started
 
